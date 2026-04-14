@@ -195,7 +195,7 @@ My_AI_Persona_Scaler/
 ### Step 1: Clone and Install
 
 ```bash
-git clone https://github.com/Spoorthy1423/My_AI_Persona_Scaler.git
+git clone https://github.com/iam-spoorthy/My_AI_persona
 cd My_AI_Persona_Scaler
 npm install --legacy-peer-deps
 ```
@@ -345,4 +345,4 @@ Vapi webhook endpoint. Handles `tool-calls` message type with three tools: `get_
 
 ---
 
-Built by **Spoorthy Madasu** | [GitHub](https://github.com/Spoorthy1423) | [LinkedIn](https://linkedin.com/in/spoorthy-madasu)
+Built by **Spoorthy Madasu** 
